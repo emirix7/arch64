@@ -1,5 +1,7 @@
 Windows Executable --> dist File
 
+Run Command (source-code) --> python3 arch64.py
+
 Please run this commands
 
 pip install art	   // please install
